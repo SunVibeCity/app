@@ -1,0 +1,42 @@
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: -1px;
+  color: #f80;
+}
+.secondaryText {
+  color: #ffffff;
+  background: rgb(40, 145, 40);
+  font-size: 1.5rem;
+  margin-top: 16px;
+  padding: 4px 16px;
+  max-width: 480px;
+}
+.banner {
+  height: 328px;
+  background-image: url(../assets/sunvibe-bg.JPG);
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+  padding: 24px;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 960px;
+  margin: 50px auto;
+}
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.sectionText {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 24px;
+  line-height: 2.5rem;
+}
